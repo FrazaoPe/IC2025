@@ -1,2 +1,2 @@
-# Análise da sobrevida de pacientes com câncer de mama
-Repositório destinado ao upload do projeto de iniciação científica realizado sob orientação da professora Núbia Karla (IME-UFF).
+# 1º Projeto de Iniciação Científica
+Repositório destinado ao upload das atividades realizadas no projeto de iniciação científica sob orientação da professora Núbia Karla (IME-UFF).
