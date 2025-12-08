@@ -5,3 +5,5 @@ por características das pacientes, da doença e do tratamento. A significância
 Projeto de iniciação científica feito sob orientação da professora Núbia Karla (IME-UFF).
 
 Link para obtenção dos dados: https://irhc.inca.gov.br/RHCNet/visualizaTabNetExterno.action
+
+Link para visualização em tela do dashboard: https://rtfooh-pedro-dutra.shinyapps.io/KmCurves/
