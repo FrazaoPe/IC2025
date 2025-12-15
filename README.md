@@ -6,4 +6,4 @@ Projeto de iniciação científica feito sob orientação da professora Núbia K
 
 Site onde foram obtidos os dados: https://irhc.inca.gov.br/RHCNet/visualizaTabNetExterno.action
 
-Link para visualização em tela do dashboard: https://rtfooh-pedro-dutra.shinyapps.io/KmCurves/
+Link para visualização em tela do dashboard das curvas de sobrevivência: https://rtfooh-pedro-dutra.shinyapps.io/KmCurves/
