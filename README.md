@@ -3,7 +3,7 @@ Resumo: O trabalho utiliza técnicas de análise de sobrevivência para descreve
 
 Projeto de iniciação científica feito sob orientação da professora Núbia Karla (IME-UFF).
 
-Projeto apoiado financeiramente pela Fundação de Amparo à Pesquisa do Estado do Rio de Janeiro (FAPERJ) (EditalFAPERJNº23/2024).
+Projeto apoiado financeiramente pela Fundação de Amparo à Pesquisa do Estado do Rio de Janeiro (EditalFAPERJNº23/2024).
 
 Site onde foram obtidos os dados: https://irhc.inca.gov.br/RHCNet/visualizaTabNetExterno.action
 
