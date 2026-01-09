@@ -7,4 +7,4 @@ Projeto apoiado financeiramente pela Fundação de Amparo à Pesquisa do Estado 
 
 Site onde foram obtidos os dados: https://irhc.inca.gov.br/RHCNet/visualizaTabNetExterno.action
 
-Dashboard das curvas de sobrevivência de várias variáveis da base de dados: https://rtfooh-pedro-dutra.shinyapps.io/KmCurves/
+Dashboard das curvas de sobrevivência de todas as variáveis utilizadas no trabalho: https://rtfooh-pedro-dutra.shinyapps.io/KmCurves/
