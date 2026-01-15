@@ -6,5 +6,3 @@ Projeto de iniciação científica feito sob orientação da professora Núbia K
 Projeto apoiado financeiramente pela Fundação de Amparo à Pesquisa do Estado do Rio de Janeiro (EditalFAPERJNº23/2024).
 
 Site onde foram obtidos os dados: https://irhc.inca.gov.br/RHCNet/visualizaTabNetExterno.action
-
-Dashboard das curvas de sobrevivência de todas as variáveis utilizadas no trabalho: https://rtfooh-pedro-dutra.shinyapps.io/KmCurves/
