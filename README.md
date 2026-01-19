@@ -1,23 +1,72 @@
 # Projeto de Iniciação Científica
 
-Resumo: O trabalho utiliza técnicas de análise de sobrevivência para descrever o tempo entre o início do tratamento e o óbito por câncer de mama em 36.000 mulheres adultas brasileiras, a partir de dados do INCA/Integrador-RHC entre 2010 e 2019. A função de sobrevivência, definida como a probabilidade de sobreviver além de um determinado tempo, é estimada pelo estimador de Kaplan-Meier, com apresentação de curvas gerais e estratificadas por características das pacientes, da doença e do tratamento. A significância dos efeitos desses atributos na sobrevida é avaliada por meio do teste log-rank, que compara distribuições de sobrevivência entre grupos distintos.
+## Análise de Sobrevivência ao Câncer de Mama no Brasil
 
-O objetivo deste repositório é disponibilizar/divulgar a produção oriunda deste projeto. Em particular, armazenar o link para visualização em tela do DashSurvivalBoard, um painel interativo que Nulla facilisi. Praesent eleifend ligula velit, id molestie purus dapibus nec. In ultricies elementum urna quis ornare. Mauris sed erat vel est aliquam mollis in eget mi. Nam tempor lectus sem, ut tincidunt eros aliquam at. Donec sit amet cursus orci. Fusce posuere nibh justo, ac volutpat ex fringilla sit amet. 
+### 📌 Resumo
 
-### Ajustes e melhorias
+Este projeto utiliza técnicas de **Análise de Sobrevivência** para estudar o tempo decorrido entre o início do tratamento e o óbito por câncer de mama em aproximadamente **36.000 mulheres adultas brasileiras**, com base em dados do **INCA / Integrador-RHC**, no período de **2010 a 2019**.
 
-O DashSurvivalBoard ainda está em desenvolvimento e as próximas atualizações serão voltadas para as seguintes tarefas:
+A função de sobrevivência, definida como a probabilidade de um indivíduo sobreviver além de um determinado tempo, é estimada por meio do **estimador de Kaplan–Meier**. São apresentadas curvas de sobrevivência globais e estratificadas segundo características **sociodemográficas**, **clínicas** e **terapêuticas** das pacientes.
 
-- [ ] Adicionar a possibilidade do usuário definir a janela temporal de estudo
+A influência dessas características sobre a sobrevida é avaliada estatisticamente utilizando o **teste log-rank**, que permite a comparação entre distribuições de sobrevivência de diferentes grupos.
 
-## Supervisão
-Profª Núbia Karla de Oliveira Almeida (link para lattes)
+---
 
-## Apoio financeiro
-Faperj (Imagem da faperj e link para o site)
+### 🎯 Objetivo do repositório
 
-Projeto feito sob orientação da professora Núbia Karla (IME-UFF).
+Este repositório tem como objetivo **divulgar e organizar a produção científica** oriunda deste projeto de Iniciação Científica. Em particular, ele disponibiliza:
 
-Projeto apoiado financeiramente pela Fundação de Amparo à Pesquisa do Estado do Rio de Janeiro (EditalFAPERJNº23/2024).
+* Informações metodológicas sobre a análise realizada
+* Materiais associados ao desenvolvimento do projeto
+* O link para visualização do **DashSurvivalBoard**, um **painel interativo** desenvolvido para exploração visual das curvas de sobrevivência e comparações entre grupos
 
-Site onde foram obtidos os dados: https://irhc.inca.gov.br/RHCNet/visualizaTabNetExterno.action
+O **DashSurvivalBoard** foi concebido como uma ferramenta de apoio à análise exploratória e à divulgação científica, permitindo uma interação dinâmica com os resultados obtidos.
+
+---
+
+### 📊 DashSurvivalBoard
+
+> Painel interativo em desenvolvimento para visualização de curvas de Kaplan–Meier estratificadas por características das pacientes, da doença e do tratamento.
+
+🔗 *Link para visualização em tela:* *(a ser inserido)*
+
+---
+
+### 🔧 Ajustes e melhorias futuras
+
+O DashSurvivalBoard encontra-se em constante desenvolvimento. As próximas atualizações previstas incluem:
+
+* [ ] Inclusão de uma opção para o usuário **definir a janela temporal de estudo**
+* [ ] Aprimoramento da interface gráfica
+* [ ] Inclusão de novas estratificações e filtros interativos
+
+---
+
+### 👩‍🏫 Supervisão
+
+**Profª Dra. Núbia Karla de Oliveira Almeida**
+Instituto de Matemática e Estatística – UFF
+🔗 *Currículo Lattes:* *(inserir link)*
+
+---
+
+### 💰 Apoio financeiro
+
+Este projeto conta com apoio financeiro da:
+
+**Fundação de Amparo à Pesquisa do Estado do Rio de Janeiro (FAPERJ)**
+Edital FAPERJ nº 23/2024
+🔗 [https://www.faperj.br](https://www.faperj.br)
+
+*(Inserir logotipo da FAPERJ, se desejado)*
+
+---
+
+### 🗂️ Fonte dos dados
+
+Os dados utilizados neste estudo foram obtidos a partir do sistema:
+
+**Integrador-RHC – INCA**
+🔗 [https://irhc.inca.gov.br/RHCNet/visualizaTabNetExterno.action](https://irhc.inca.gov.br/RHCNet/visualizaTabNetExterno.action)
+
+---
