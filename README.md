@@ -10,7 +10,9 @@ A função de sobrevivência, definida como a probabilidade de um indivíduo sob
 
 A influência dessas características sobre a sobrevida é avaliada estatisticamente utilizando o **teste Log-Rank**, que permite a comparação entre diferentes distribuições de sobrevivência.
 
+
 ---
+
 
 ### 🎯 Objetivo do repositório
 
@@ -20,7 +22,9 @@ Este repositório tem como objetivo **divulgar e organizar a produção científ
 * Materiais apresentados em congressos ou publicados em revistas/anais
 * Link para visualização do **DashSurvivalBoard**, um **painel interativo** desenvolvido para facilitar as análises das funções de sobrevivência.
 
+
 ---
+
 
 ### 📊 DashSurvivalBoard
 
@@ -28,7 +32,9 @@ Este repositório tem como objetivo **divulgar e organizar a produção científ
 
 🔗 *Link para visualização em tela:* *(a ser inserido)*
 
+
 ---
+
 
 ### 🔧 Ajustes e melhorias futuras
 
@@ -36,7 +42,9 @@ O DashSurvivalBoard encontra-se em constante desenvolvimento. As próximas atual
 
 * [ ] Inclusão de uma opção para o usuário **definir a janela temporal de estudo**
 
+
 ---
+
 
 ### 👩‍🏫 Supervisão
 
@@ -44,7 +52,9 @@ O DashSurvivalBoard encontra-se em constante desenvolvimento. As próximas atual
 Instituto de Matemática e Estatística – UFF
 🔗 *Currículo Lattes:* *(inserir link)*
 
+
 ---
+
 
 ### 💰 Apoio financeiro
 
@@ -54,7 +64,9 @@ Este projeto contou com apoio financeiro da:
 Edital FAPERJ nº 23/2024
 🔗 [https://www.faperj.br](https://www.faperj.br)
 
+
 ---
+
 
 ### 🗂️ Fonte dos dados
 
@@ -62,5 +74,6 @@ Os dados utilizados neste estudo foram obtidos a partir do sistema:
 
 **Integrador-RHC – INCA**
 🔗 [https://irhc.inca.gov.br/RHCNet/visualizaTabNetExterno.action](https://irhc.inca.gov.br/RHCNet/visualizaTabNetExterno.action)
+
 
 ---
