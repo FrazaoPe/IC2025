@@ -12,7 +12,7 @@ A influência dessas características na sobrevida é avaliada estatisticamente 
 
 ### 🎯 Objetivo do repositório
 
-Este repositório tem como objetivo **divulgar e organizar a produção** oriunda deste trabalho. Estão aqui disponíveis os seguintes itens:
+Este repositório tem como objetivo **divulgar e organizar a produção** oriunda deste trabalho. Estão disponíveis aqui os seguintes itens:
 
 * Relatório técnico-científico do projeto
 * Materiais apresentados em congressos ou publicados em revistas/anais
