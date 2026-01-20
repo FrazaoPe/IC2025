@@ -1,6 +1,6 @@
 # Projeto de Iniciação Científica
 
-## Análise de Sobrevivência de Mulheres em Tratamento de Câncer de Mama - Abordagem Não-Paramétrica
+## Análise de Sobrevivência de Mulheres em Tratamento de Câncer de Mama - Abordagem Não Paramétrica
 
 ### 📌 Resumo
 
