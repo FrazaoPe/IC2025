@@ -29,7 +29,7 @@ Painel interativo em desenvolvimento para visualização de curvas de Kaplan–M
 
 🔗 *Link para acesso:* *(a ser inserido)*
 
-### 🔧 Ajustes e inclusões futuras
+### 🔧 Ajustes e expansões futuras
 
 A próxima atualização do DashSurvivalBoard incluirá um controle que permite o usuário **definir a janela temporal do estudo**.
 
