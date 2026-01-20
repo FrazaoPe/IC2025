@@ -42,7 +42,7 @@ A próxima atualização do DashSurvivalBoard incluirá um controle que permite 
 Instituto de Matemática e Estatística – UFF
 🔗 *Currículo Lattes:* *(inserir link)*
 
-### FAPERJ
+### 💰 Apoio financeiro
 
 **Fundação de Amparo à Pesquisa do Estado do Rio de Janeiro (FAPERJ)**
 Edital FAPERJ nº 23/2024
