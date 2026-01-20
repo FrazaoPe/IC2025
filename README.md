@@ -17,6 +17,7 @@ Este repositório tem como objetivo **divulgar e organizar a produção científ
 * Relatório técnico-científico do projeto
 * Materiais apresentados em congressos ou publicados em revistas/anais
 * Link para visualização do **DashSurvivalBoard**, um **painel interativo** desenvolvido para facilitar as análises das funções de sobrevivência.
+* Scripts de todas as análises
 
 
 ---
