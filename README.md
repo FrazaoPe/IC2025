@@ -44,7 +44,7 @@ Instituto de Matemática e Estatística – Universidade Federal Fluminense
 
 🔗 *Currículo Lattes:* *[http://lattes.cnpq.br/7953196264864761]*
 
-### 💰 Apoio financeiro
+### 💰 Agência de fomento
 
 **Fundação de Amparo à Pesquisa do Estado do Rio de Janeiro (FAPERJ)**
 
