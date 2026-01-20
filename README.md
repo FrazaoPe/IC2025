@@ -1,12 +1,12 @@
 # Projeto de Iniciação Científica
 
-## Análise de Sobrevivência de mulheres brasileiras ao câncer de mama
+## Análise de Sobrevivência de Mulheres em Tratamento de Câncer de Mama
 
 ### 📌 Resumo
 
 Este projeto utiliza técnicas de **Análise de Sobrevivência** para estudar o tempo decorrido entre o início do tratamento e o óbito por câncer de mama em aproximadamente **30.000 mulheres adultas brasileiras**, com base em dados do **INCA / Integrador-RHC**, no período de **2010 a 2019**.
 
-A função de sobrevivência, definida como a probabilidade de um indivíduo sobreviver além de um determinado tempo, é estimada por meio do **estimador de Kaplan–Meier**. São apresentadas curvas de sobrevivência globais e estratificadas segundo características **sociodemográficas**, **clínicas** e **terapêuticas** das pacientes.
+A função de sobrevivência, definida como a probabilidade de um indivíduo sobreviver além de um determinado tempo, é estimada de forma não-paramétrica por meio do **estimador de Kaplan–Meier**. São apresentadas curvas de sobrevivência globais e estratificadas segundo características **sociodemográficas**, **clínicas** e **terapêuticas** das pacientes.
 
 A influência dessas características na sobrevida é avaliada estatisticamente utilizando o **teste Log-Rank**, que permite a comparação entre diferentes distribuições de sobrevivência.
 
