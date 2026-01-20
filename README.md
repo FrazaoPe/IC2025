@@ -25,7 +25,7 @@ Este repositório tem como objetivo **divulgar e organizar a produção** oriund
 
 ### 📊 DashSurvivalBoard
 
-> Painel interativo em desenvolvimento para visualização de curvas de Kaplan–Meier estratificadas por características das pacientes, da doença e do tratamento.
+Painel interativo em desenvolvimento para visualização de curvas de Kaplan–Meier estratificadas por características das pacientes, da doença e do tratamento.
 
 🔗 *Link para acesso:* *(a ser inserido)*
 
