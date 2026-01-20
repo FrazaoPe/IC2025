@@ -43,10 +43,6 @@ O DashSurvivalBoard encontra-se em constante desenvolvimento. As próximas atual
 Instituto de Matemática e Estatística – UFF
 🔗 *Currículo Lattes:* *(inserir link)*
 
-
----
-
-
 ### 💰 Apoio financeiro
 
 Este projeto contou com apoio financeiro da:
@@ -54,17 +50,5 @@ Este projeto contou com apoio financeiro da:
 **Fundação de Amparo à Pesquisa do Estado do Rio de Janeiro (FAPERJ)**
 Edital FAPERJ nº 23/2024
 🔗 [https://www.faperj.br](https://www.faperj.br)
-
-
----
-
-
-### 🗂️ Fonte dos dados
-
-Os dados utilizados neste estudo foram obtidos a partir do sistema:
-
-**Integrador-RHC – INCA**
-🔗 [https://irhc.inca.gov.br/RHCNet/visualizaTabNetExterno.action](https://irhc.inca.gov.br/RHCNet/visualizaTabNetExterno.action)
-
 
 ---
