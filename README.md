@@ -38,14 +38,13 @@ A próxima atualização do DashSurvivalBoard incluirá um controle que permite 
 ## Agradecimentos
 
 ### 👩‍🏫 Orientadora do projeto
-**Profª Dra. Núbia Karla de Oliveira Almeida**
-Instituto de Matemática e Estatística – UFF
-🔗 *Currículo Lattes:* *(inserir link)*
+**Profª Dra. Núbia Karla de Oliveira Almeida** // 
+Instituto de Matemática e Estatística – Universidade Federal Fluminense // 
+🔗 *Currículo Lattes:* *[http://lattes.cnpq.br/7953196264864761]*
 
 ### 💰 Apoio financeiro
 
 **Fundação de Amparo à Pesquisa do Estado do Rio de Janeiro (FAPERJ)**
-Edital FAPERJ nº 23/2024
 🔗 [https://www.faperj.br](https://www.faperj.br)
 
 ---
