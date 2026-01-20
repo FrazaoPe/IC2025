@@ -12,7 +12,7 @@ A influência dessas características na sobrevida é avaliada estatisticamente 
 
 ### 🎯 Objetivo do repositório
 
-Este repositório tem como objetivo **divulgar e organizar a produção científica** oriunda deste projeto de Iniciação Científica. Em particular, ele disponibiliza:
+Este repositório tem como objetivo **divulgar e organizar a produção** oriunda deste trabalho. Estão aqui disponíveis os seguintes itens:
 
 * Relatório técnico-científico do projeto
 * Materiais apresentados em congressos ou publicados em revistas/anais
@@ -31,19 +31,18 @@ Este repositório tem como objetivo **divulgar e organizar a produção científ
 
 ### 🔧 Ajustes e melhorias futuras
 
-O DashSurvivalBoard encontra-se em desenvolvimento. As próxima atualização prevista incluirá um controle que permite o usuário definir a janela temporal do estudo.
+A próxima atualização do DashSurvivalBoard incluirá um controle que permite o usuário **definir a janela temporal do estudo**.
 
 ---
 
+## Agradecimentos
 
 ### 👩‍🏫 Orientadora do projeto
 **Profª Dra. Núbia Karla de Oliveira Almeida**
 Instituto de Matemática e Estatística – UFF
 🔗 *Currículo Lattes:* *(inserir link)*
 
-### 💰 Apoio financeiro
-
-Este projeto contou com apoio financeiro da:
+### FAPERJ
 
 **Fundação de Amparo à Pesquisa do Estado do Rio de Janeiro (FAPERJ)**
 Edital FAPERJ nº 23/2024
