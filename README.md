@@ -8,7 +8,7 @@ Este projeto utiliza técnicas de **Análise de Sobrevivência** para estudar o 
 
 A função de sobrevivência, definida como a probabilidade de um indivíduo sobreviver além de um determinado tempo, é estimada por meio do **estimador de Kaplan–Meier**. São apresentadas curvas de sobrevivência globais e estratificadas segundo características **sociodemográficas**, **clínicas** e **terapêuticas** das pacientes.
 
-A influência dessas características sobre a sobrevida é avaliada estatisticamente utilizando o **teste Log-Rank**, que permite a comparação entre diferentes distribuições de sobrevivência.
+A influência dessas características na sobrevida é avaliada estatisticamente utilizando o **teste Log-Rank**, que permite a comparação entre diferentes distribuições de sobrevivência.
 
 ### 🎯 Objetivo do repositório
 
