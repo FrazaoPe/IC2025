@@ -1,6 +1,6 @@
 # Projeto de Iniciação Científica
 
-## Análise de Sobrevivência ao Câncer de Mama no Brasil
+## Análise de Sobrevivência de mulheres brasileiras ao câncer de mama
 
 ### 📌 Resumo
 
