@@ -30,10 +30,7 @@ Este repositório tem como objetivo **divulgar e organizar a produção científ
 
 ### 🔧 Ajustes e melhorias futuras
 
-O DashSurvivalBoard encontra-se em constante desenvolvimento. As próximas atualizações previstas incluem:
-
-* [ ] Inclusão de uma opção para o usuário **definir a janela temporal de estudo**
-
+O DashSurvivalBoard encontra-se em desenvolvimento. As próxima atualização prevista incluirá um controle que permite o usuário definir a janela temporal do estudo.
 
 ---
 
