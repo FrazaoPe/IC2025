@@ -35,7 +35,7 @@ A próxima atualização do DashSurvivalBoard incluirá um controle que permite 
 
 ---
 
-## Agradecimentos
+## Créditos
 
 ### 👩‍🏫 Orientadora do projeto
 **Profª Dra. Núbia Karla de Oliveira Almeida** 
