@@ -30,7 +30,7 @@ Este repositório tem como objetivo **divulgar e organizar a produção científ
 
 > Painel interativo em desenvolvimento para visualização de curvas de Kaplan–Meier estratificadas por características das pacientes, da doença e do tratamento.
 
-🔗 *Link para visualização em tela:* *(a ser inserido)*
+🔗 *Link para acesso:* *(a ser inserido)*
 
 
 ---
