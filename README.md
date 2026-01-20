@@ -10,10 +10,6 @@ A função de sobrevivência, definida como a probabilidade de um indivíduo sob
 
 A influência dessas características sobre a sobrevida é avaliada estatisticamente utilizando o **teste Log-Rank**, que permite a comparação entre diferentes distribuições de sobrevivência.
 
-
----
-
-
 ### 🎯 Objetivo do repositório
 
 Este repositório tem como objetivo **divulgar e organizar a produção científica** oriunda deste projeto de Iniciação Científica. Em particular, ele disponibiliza:
@@ -32,10 +28,6 @@ Este repositório tem como objetivo **divulgar e organizar a produção científ
 
 🔗 *Link para acesso:* *(a ser inserido)*
 
-
----
-
-
 ### 🔧 Ajustes e melhorias futuras
 
 O DashSurvivalBoard encontra-se em constante desenvolvimento. As próximas atualizações previstas incluem:
@@ -46,8 +38,7 @@ O DashSurvivalBoard encontra-se em constante desenvolvimento. As próximas atual
 ---
 
 
-### 👩‍🏫 Supervisão
-
+### 👩‍🏫 Orientadora do projeto
 **Profª Dra. Núbia Karla de Oliveira Almeida**
 Instituto de Matemática e Estatística – UFF
 🔗 *Currículo Lattes:* *(inserir link)*
