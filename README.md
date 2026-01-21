@@ -53,7 +53,7 @@ A próxima atualização do DashSurvivalBoard incluirá um controle que permite 
 ### 👩‍🏫 Orientadora do projeto
 Profª Dra. Núbia Karla de Oliveira Almeida
 
-🔗 *Currículo Lattes:* *http://lattes.cnpq.br/7953196264864761*
+🔗 http://lattes.cnpq.br/7953196264864761
 
 ### 💰 Agência de fomento
 
