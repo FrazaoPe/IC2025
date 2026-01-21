@@ -4,7 +4,7 @@
 
 ### 📌 Resumo
 
-Este projeto utiliza técnicas de Análise de Sobrevivência para descrever o tempo decorrido entre o início do tratamento e o óbito por câncer de mama em aproximadamente 30.000 mulheres adultas brasileiras**, com base em dados do INCA / Integrador-RHC, no período de 2010 a 2019. 
+Este projeto utiliza técnicas de Análise de Sobrevivência para descrever o tempo decorrido entre o início do tratamento e o óbito por câncer de mama em aproximadamente 30.000 mulheres adultas brasileiras, com base em dados do INCA / Integrador-RHC, no período de 2010 a 2019. 
 
 A função de sobrevivência, definida como a probabilidade de um indivíduo sobreviver além de um determinado tempo, é estimada de forma não-paramétrica por meio do estimador de Kaplan–Meier. Através deste método, são construídas curvas de sobrevivência de forma global e por estratos de acordo com características sociodemográficas, clínicas e terapêuticas das pacientes.
 
