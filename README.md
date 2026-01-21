@@ -25,7 +25,7 @@ Este repositório tem como objetivo **divulgar e organizar a produção** oriund
 
 ### 📊 DashSurvivalBoard
 
-Painel interativo para visualização de curvas de Kaplan–Meier estratificadas por características das pacientes, da doença e do tratamento.
+Painel interativo para visualização das curvas de Kaplan–Meier, cálculo dos p-valores dos testes Log-Rank e realização de análises descritivas.
 
 🔗 *Link para acesso:* *(a ser inserido)*
 
