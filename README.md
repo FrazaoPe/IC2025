@@ -36,7 +36,7 @@ A próxima atualização do DashSurvivalBoard incluirá um controle que permite 
 ## Créditos
 
 ### 👩‍🏫 Orientadora do projeto
-**Profª Dra. Núbia Karla de Oliveira Almeida** 
+Profª Dra. Núbia Karla de Oliveira Almeida
 
 Instituto de Matemática e Estatística – Universidade Federal Fluminense 
 
@@ -44,7 +44,7 @@ Instituto de Matemática e Estatística – Universidade Federal Fluminense
 
 ### 💰 Agência de fomento
 
-**Fundação de Amparo à Pesquisa do Estado do Rio de Janeiro (FAPERJ)**
+Fundação de Amparo à Pesquisa do Estado do Rio de Janeiro (FAPERJ)
 
 🔗 [https://www.faperj.br](https://www.faperj.br)
 
