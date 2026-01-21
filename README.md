@@ -40,7 +40,7 @@ Este repositório tem como objetivo divulgar e organizar a produção oriunda de
   </a>
 </p>
 
-🔗 *Link para acesso:* *(a ser inserido)*
+🔗 Link para acesso: https://rtfooh-pedro-dutra.shinyapps.io/DashSurvivalBoard/
 
 ### 🔧 Ajustes e expansões futuras
 
