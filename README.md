@@ -23,8 +23,6 @@ Este repositório tem como objetivo divulgar e organizar a produção oriunda de
 
 ### 📊 DashSurvivalBoard
 
-Painel interativo para visualização das curvas de Kaplan–Meier, cálculo dos p-valores dos testes Log-Rank e realização de análises descritivas.
-
 🔗 *Link para acesso:* *(a ser inserido)*
 
 ### 🔧 Ajustes e expansões futuras
