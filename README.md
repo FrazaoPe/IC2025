@@ -23,24 +23,24 @@ Este repositório tem como objetivo divulgar e organizar a produção oriunda de
 
 ### 📊 DashSurvivalBoard
 
+🔗 Link para acesso: https://rtfooh-pedro-dutra.shinyapps.io/DashSurvivalBoard/
+
 <p align="center">
   <a href="https://github.com/user-attachments/assets/3f4cf8bb-9a84-4f3e-a068-1f289f6a9331">
     <img src="https://github.com/user-attachments/assets/3f4cf8bb-9a84-4f3e-a068-1f289f6a9331"
-         width="320" />
+         width="600" />
   </a>
 
   <a href="https://github.com/user-attachments/assets/46007695-68ec-448e-878c-3c8fc440cefc">
     <img src="https://github.com/user-attachments/assets/46007695-68ec-448e-878c-3c8fc440cefc"
-         width="320" />
+         width="600" />
   </a>
 
   <a href="https://github.com/user-attachments/assets/3eaaf052-f86c-4743-ab7e-486a9254508e">
     <img src="https://github.com/user-attachments/assets/3eaaf052-f86c-4743-ab7e-486a9254508e"
-         width="320" />
+         width="600" />
   </a>
 </p>
-
-🔗 Link para acesso: https://rtfooh-pedro-dutra.shinyapps.io/DashSurvivalBoard/
 
 ### 🔧 Ajustes e expansões futuras
 
