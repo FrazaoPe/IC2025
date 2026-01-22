@@ -313,7 +313,7 @@ server <- function(input, output, session) {
       
       div(
         style = "font-size: 20px; font-weight: bold; color: #2c3e50;",
-        paste0("p-valor = ", p_fmt)
+        paste0("p-valor ", p_fmt)
       )
     }, error = function(e) {
       "Não calculável"
@@ -446,3 +446,4 @@ server <- function(input, output, session) {
 }
 
 shinyApp(ui, server)
+
