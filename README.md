@@ -24,8 +24,8 @@ Este repositório tem como objetivo divulgar e organizar a produção oriunda de
 ### 📊 DashSurvivalBoard
 
 <p align="center">
-  <a href="https://github.com/user-attachments/assets/091a8757-1350-49d7-8f15-d6139c538554">
-    <img src="https://github.com/user-attachments/assets/091a8757-1350-49d7-8f15-d6139c538554"
+  <a href="https://github.com/user-attachments/assets/3f4cf8bb-9a84-4f3e-a068-1f289f6a9331">
+    <img src="https://github.com/user-attachments/assets/3f4cf8bb-9a84-4f3e-a068-1f289f6a9331"
          width="320" />
   </a>
 
