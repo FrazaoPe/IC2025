@@ -16,7 +16,7 @@ Este repositório tem como objetivo divulgar e organizar a produção oriunda de
 
 * Relatório técnico-científico do projeto (em breve)
 * Materiais apresentados em congressos ou publicados em revistas/anais
-* Link para visualização do DashSurvivalBoard, um painel interativo desenvolvido para facilitar as análises das funções de sobrevivência.
+* Link para visualização do DashSurvivalBoard, um painel interativo desenvolvido para visualização das curvas de sobrevida e realização dos testes Log-Rank e análises descritivas.
 * Scripts de todas as análises
 
 ---
