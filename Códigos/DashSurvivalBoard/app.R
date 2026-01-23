@@ -44,6 +44,7 @@ ui <- page_navbar(
             "Fez quimioterapia?"             = "fezQuimio",
             "Fez radioterapia?"              = "fezRadio",
             "Lateralidade do tumor"          = "lateralidade",
+            "Nenhuma"                        = "nenhuma",
             "Ocorrência de mais um tumor"    = "maisumtu",
             "Raça/Cor"                       = "racaCor",
             "Situação romântica"             = "companheiro",
@@ -266,12 +267,18 @@ server <- function(input, output, session) {
   
   runSur <- reactive({
     req(input$sur_var)
-    survfit(as.formula(paste("Surv(tempo,status) ~ ", paste(input$sur_var))),
-            data = base)
+    if (input$sur_var == "nenhuma") {
+      survfit(Surv(tempo, status) ~ 1, data = base) 
+    } else {
+      survfit(as.formula(paste("Surv(tempo,status) ~ ", paste(input$sur_var))),
+              data = base)
+    }
   })
   
   runLogR <- reactive({
     req(input$sur_var)
+    if (input$sur_var == "nenhuma") return(NULL)
+    
     survdiff(as.formula(paste("Surv(tempo,status) ~ ", paste(input$sur_var))),
              data = base)
   })
@@ -307,6 +314,10 @@ server <- function(input, output, session) {
   # --- Outputs ---
   
   output$LogR <- renderUI({
+    if (input$sur_var == "nenhuma") {
+      return(h6("Não aplicável", style = "color: #999;"))
+    }
+    
     tryCatch({
       pvalor <- runLogR()[["pvalue"]]
       p_fmt <- format.pval(pvalor, digits = 3, eps = 0.001)
@@ -323,26 +334,45 @@ server <- function(input, output, session) {
   output$plot1 <- renderPlot({
     fit <- runSur()
     
-    surv_df <- data.frame(
-      time   = fit$time / 12,   
-      surv   = fit$surv,
-      lower  = fit$lower,
-      upper  = fit$upper,
-      strata = rep(names(fit$strata), fit$strata)
-    )
+    if (is.null(fit$strata)) {
+      surv_df <- data.frame(
+        time   = fit$time / 12,
+        surv   = fit$surv,
+        lower  = fit$lower,
+        upper  = fit$upper,
+        strata = "Curva geral" 
+      )
+      col_palette <- c("#2c3e50") 
+    } else {
+      surv_df <- data.frame(
+        time   = fit$time / 12,
+        surv   = fit$surv,
+        lower  = fit$lower,
+        upper  = fit$upper,
+        strata = rep(names(fit$strata), fit$strata)
+      )
+      surv_df$strata <- gsub(paste0(input$sur_var, "="), "", surv_df$strata)
+      col_palette <- c("#20C997", "#FF8882", "#5E81AC", "#B48EAD", "#F39C12", "#34495e", "#e67e22")
+    }
     
-    surv_df$strata <- gsub(paste0(input$sur_var, "="), "", surv_df$strata)
-    
+    # Definição dos limites do Eixo Y
     y_lim <- if (input$sur_var == "estadiamento") {
       c(0.75, 1)
     } else if (input$sur_var == "fezCirurgia") {
       c(0.84, 1)
     } else if (input$sur_var == "lateralidade") {
       c(0.85, 1)
+    } else if (input$sur_var == "nenhuma"){
+      c(0.94,1)
+    } else if (input$sur_var == "escolaridade"){
+      c(0.9,1)
+    } else if (input$sur_var == "racaCor"){
+      c(0.9,1)
     } else {
-      c(0.9, 1) 
+      c(0.92, 1) 
     }
     
+    # Plotagem
     ggplot(surv_df, aes(x = time, y = surv, color = strata, fill = strata)) +
       geom_ribbon(
         aes(ymin = lower, ymax = upper),
@@ -353,9 +383,9 @@ server <- function(input, output, session) {
       geom_vline(
         xintercept = input$xvalue,
         linetype = "longdash", 
-        color = "#555555",     
-        alpha = 0.6,           
-        linewidth = 0.8        
+        color = "#555555",      
+        alpha = 0.6,            
+        linewidth = 0.8         
       ) +
       scale_x_continuous(
         name = "t (ano)",
@@ -366,13 +396,8 @@ server <- function(input, output, session) {
         limits = y_lim
       ) +
       theme_minimal() +
-      scale_color_manual(
-        values = c("#20C997", "#FF8882", "#5E81AC", "#B48EAD", "#F39C12")
-      ) +
-      
-      scale_fill_manual(
-        values = c("#20C997", "#FF8882", "#5E81AC", "#B48EAD", "#F39C12")
-      ) +
+      scale_color_manual(values = col_palette) +
+      scale_fill_manual(values = col_palette) +
       theme(
         legend.position = "bottom",
         legend.title = element_blank(),
@@ -390,8 +415,14 @@ server <- function(input, output, session) {
     tryCatch({
       s <- summary(runSur(), times = t_meses())
       
+      if (is.null(s$strata)) {
+        nome_estrato <- "Geral"
+      } else {
+        nome_estrato <- gsub(paste0(input$sur_var, "="), "", s$strata)
+      }
+      
       tab <- data.frame(
-        Estrato = gsub(paste0(input$sur_var, "="), "", s$strata),
+        Estrato = nome_estrato,
         `S(t)` = round(s$surv, 3),
         `IC 95%` = paste0("(", round(s$lower, 3), " ; ", round(s$upper, 3), ")"),
         check.names = F
@@ -446,4 +477,3 @@ server <- function(input, output, session) {
 }
 
 shinyApp(ui, server)
-
