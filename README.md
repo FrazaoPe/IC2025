@@ -14,7 +14,7 @@ A influência dessas características na sobrevida é avaliada estatisticamente 
 
 Este repositório tem como objetivo divulgar e organizar a produção oriunda deste trabalho. Estão disponíveis aqui os seguintes itens:
 
-* Relatório técnico do projeto (em breve)
+* Relatório final do projeto 
 * Materiais apresentados em congressos ou publicados em revistas/anais
 * Link para visualização do DashSurvivalBoard, um painel interativo desenvolvido para visualização das curvas de sobrevida e realização dos testes Log-Rank e análises descritivas.
 * Scripts de todas as análises
