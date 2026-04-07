@@ -44,7 +44,7 @@ Este repositório tem como objetivo divulgar e organizar a produção oriunda de
 
 ### 🔧 Ajustes e expansões futuras
 
-A próxima atualização do DashSurvivalBoard incluirá um controle que permite o usuário definir a janela temporal do estudo.
+A próxima atualização do DashSurvivalBoard permitirá a plotagem de curvas de risco e risco acumulado, além de possibilitar comparações par a par e novos testes estatísticos entre curvas de sobrevivência. 
 
 ---
 
